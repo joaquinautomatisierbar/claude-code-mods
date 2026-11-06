@@ -1,0 +1,1 @@
+{ "name": "video-fahrplan", "version": "0.1.0", "description": "Zeigt, wo das aktuelle Video steht, mit Knopf für den nächsten Schritt.", "types": "./types/index.d.ts" }

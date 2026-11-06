@@ -1,0 +1,1 @@
+{ "name": "render-monitor", "version": "0.1.0", "description": "Seitenpanel mit laufenden Renders (ffmpeg, Blender, HyperFrames) und Meldung, wenn sie fertig sind.", "types": "./types/index.d.ts" }
